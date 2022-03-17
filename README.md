@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @missdra
-- 👀 I’m interested in ...Data Analytics
+- 👀 I’m interested in ...Data Science and software Development
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...work opportunities that improves my knowledge
 - 📫 How to reach me ...mistura.junaid024@gmail.com
